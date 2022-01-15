@@ -1,0 +1,64 @@
+{
+    "Languages": [
+        {
+            "skill_iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg",
+            "skill_name": "C++"
+        },
+        {
+            "skill_iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+            "skill_name": "Python"
+        },
+        {
+            "skill_iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png",
+            "skill_name": "JavaScript"
+        },
+        {
+            "skill_iconUrl": "",
+            "skill_name": "Dart"
+        }
+    ],
+    "Frontend": [
+        {
+            "skill_iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png",
+            "skill_name": "HTML"
+        },
+        {
+            "skill_iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+            "skill_name": "CSS"
+        },
+        {
+            "skill_iconUrl": "",
+            "skill_name": "React"
+        },
+        {
+            "skill_iconUrl": "",
+            "skill_name": "Material UI"
+        },
+        {
+            "skill_iconUrl": "",
+            "skill_name": "Bootstrap"
+        },
+        {
+            "skill_iconUrl": "https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png",
+            "skill_name": "JQuery"
+        }
+    ],
+    "Backend": [
+        {
+            "skill_iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+            "skill_name": "NodeJS"
+        },
+        {
+            "skill_iconUrl": "https://expressjs.com/images/express-facebook-share.png",
+            "skill_name": "Express"
+        },
+        {
+            "skill_iconUrl": "https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png",
+            "skill_name": "MongoDB"
+        },
+        {
+            "skill_iconUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png",
+            "skill_name": "SQL"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "title": "Movie DataBase Site",
+            "description": "A complete movie database site where users can browse movies. Movies can be searched by title or by genre.",
+            "github_url": "http://google.com",
+            "demo_url": "http://google.com",
+            "img_url": "./photos/Project_Gifs/movieDB.png",
+            "techStack": ["NodeJs", "ExpressJs", "Imdb API", "EJS"]
+        },
+        {
+            "title": "Video Conferencing WebApp",
+            "description": "A Video Conferencing WebApp where users can connect by creating/joining rooms. It has the added functionality of sending text messages.",
+            "github_url": "https://github.com/DavidKunwar/seeChat",
+            "demo_url": "https://seechat101.herokuapp.com/",
+            "img_url": "./photos/Project_Gifs/seeChat.gif",
+            "techStack": ["NodeJs", "ExpressJs", "Socket.io", "WebRTC", "PeerJs"]
+        },
+        {
+            "title": "Video Conferencing WebApp",
+            "description": "A Video Conferencing WebApp where users can connect by creating/joining rooms. It has the added functionality of sending text messages.",
+            "github_url": "https://github.com/DavidKunwar/seeChat",
+            "demo_url": "https://seechat101.herokuapp.com/",
+            "img_url": "./photos/Project_Gifs/movieDB.png",
+            "techStack": ["NodeJs", "ExpressJs", "Socket.io", "WebRTC", "PeerJs"]
+        }
+    ]
+}
